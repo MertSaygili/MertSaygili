@@ -1,17 +1,7 @@
-<p align="center"><i>Whats upp!!!</i></p>
-
-<!--
-**MertSaygili/MertSaygili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java, OpenCv
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: mert71719601@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-  <img alt="mert github stats" src="https://github-readme-stats.vercel.app/api?username=mertsaygili&theme=gruvbox" />
+  <img height="180em" width:"100em" src="https://github-readme-stats.vercel.app/api?username=MertSaygili&show_icons=true&hide_border=true&theme=midnight-purple&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MertSaygili&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertSaygili&theme=midnight-purple&hide_border=true&layout=compact"/>
 </p>
+
+
