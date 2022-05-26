@@ -3,7 +3,7 @@
 <p align="left">
   <ul>
     <li>I study at Gazi University</li>
-    <li>My goal is become a mobile app developer</li>
+    <li>My goal is to become a mobile app developer</li>
     <li>I'm currently learning flutter/dart</li>
   </ul>
 </p>
