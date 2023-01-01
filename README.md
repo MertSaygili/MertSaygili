@@ -2,7 +2,7 @@
 
 <p align="left">
   <ul>
-    <li> A mobile developer</li>
+    <li> Developer </li>
   </ul>
 </p>
 
