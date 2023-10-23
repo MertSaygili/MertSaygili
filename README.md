@@ -2,7 +2,7 @@
 
 <p align="left">
   <ul>
-    <li> Developer </li>
+    <li> Engineer </li>
   </ul>
 </p>
 
